@@ -56,7 +56,7 @@
 
         <p>
             <button style="border-radius: 5px; border: 1px solid #c50224; color: #c50224; background: white">
-                <a href="https://worldskills.ru/media-czentr/novosti/naczionalnyij-chempionat-worldskills-hi-tech-budet-proxodit-v-sverdlovskoj-oblasti-eshhe-5-let.html" style="color:#c50224; text-decoration: none">
+                <a href="https://worldskills.ru" style="color:#c50224; text-decoration: none">
                     Learn more &raquo;
                 </a>
             </button>

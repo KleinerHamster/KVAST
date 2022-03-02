@@ -3,8 +3,8 @@
 <div class=jumbotron>
 <style>
    .jumbotron {
-    padding: 70px;
-    margin-bottom: 30px;
+    padding: 200px;
+    margin-bottom: 200px;
     font-size: 21px;
     font-weight: 200;
     line-height: 2.1428571435;
@@ -22,18 +22,18 @@
     }
 
 .container .jumbotron {
-    border-radius: 6px;
+    border-radius: 10px;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 600px) {
     .jumbotron {
         padding-top: 48px;
         padding-bottom: 48px;
     }
 
     .container .jumbotron {
-        padding-right: 60px;
-        padding-left: 60px;
+        padding-right: 100px;
+        padding-left: 100px;
     }
 
     .jumbotron h1 {
