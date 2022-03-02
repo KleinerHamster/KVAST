@@ -77,7 +77,7 @@
         
         <p>
             <button style="border-radius: 5px; border: 1px solid #c50224; color: #c50224; background: white">
-                <a href="https://worldskills.ru/media-czentr/novosti/na-karernom-forume-%C2%ABtrud-krut%C2%BB-obsudili-professionalnoe-razvitie-studentov-i-shkolnikov-stranyi.html" style="color:#c50224; text-decoration: none">
+                <a href="https://worldskills.ru/media-czentr/novosti/10-letie-dvizheniya-vorldskills-rossiya-otmetyat-v-saranske-na-yubilejnom-finale-naczionalnogo-chempionata-%C2%ABmolodyie-professionalyi%C2%BB-(worldskills-russia).html" style="color:#c50224; text-decoration: none">
                     Learn more &raquo;
                 </a>
             </button>
