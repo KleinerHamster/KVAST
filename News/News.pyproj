@@ -37,6 +37,7 @@
     <Folder Include="static\content\" />
     <Folder Include="static\fonts\" />
     <Folder Include="static\images\" />
+    <Folder Include="static\images\img_blockchain\" />
     <Folder Include="static\images\newsImages\" />
     <Folder Include="static\scripts\" />
     <Folder Include="views\" />
@@ -50,6 +51,7 @@
     <Content Include="static\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="static\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="static\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="static\images\img_blockchain\BLOCK.jpg" />
     <Content Include="static\images\newsImages\mynew_1.png" />
     <Content Include="static\images\newsImages\mynew_2.png" />
     <Content Include="static\images\newsImages\mynew_3.png" />

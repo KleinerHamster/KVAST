@@ -22,7 +22,7 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li ><a href="/about">About Page</a></li>
+                    <li ><a href="/about">Blockchain</a></li>
                 </ul>
             </div>
         </div>
