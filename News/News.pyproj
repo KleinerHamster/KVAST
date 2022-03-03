@@ -52,12 +52,11 @@
     <Content Include="static\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="static\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="static\images\img_blockchain\2.png" />
-    <Content Include="static\images\img_blockchain\BLOCK.jpg" />
-    <Content Include="static\images\img_blockchain\blockchain.png" />
-    <Content Include="static\images\img_blockchain\block.png" />
-    <Content Include="static\images\img_blockchain\block_.jpg" />
-    <Content Include="static\images\img_blockchain\dizhital.jpg" />
-    <Content Include="static\images\img_blockchain\logo.png" />
+    <Content Include="static\images\img_blockchain\bl.png" />
+    <Content Include="static\images\img_blockchain\ibm.jpg" />
+    <Content Include="static\images\img_blockchain\preview - case.jpg" />
+    <Content Include="static\images\img_blockchain\udemy.png" />
+    <Content Include="static\images\img_blockchain\devb.png" />
     <Content Include="static\images\newsImages\mynew_1.png" />
     <Content Include="static\images\newsImages\mynew_2.png" />
     <Content Include="static\images\newsImages\mynew_3.png" />

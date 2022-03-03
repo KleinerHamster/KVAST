@@ -1,6 +1,6 @@
 % rebase('layout.tpl', title=title, year=year)
 <div>
-
+<img src="static\images\img_blockchain\preview - case.jpg" height=400  width=1150>
 <head>
     <style>
         body {
@@ -80,8 +80,9 @@
 }
 </style>
 
-    <img src="static\images\img_blockchain\logo.png" width=400 height=200> 
-    <p></p>
+    <img src="static\images\img_blockchain\bl.png" width=500 height=200> <h1 style="font-family: Gill Sans, sans-serif; color:black">New 
+                                                                            Technology</h1>
+    
     <p style="color:black">Imagine a world where you can send money directly to someone without a bank - in seconds instead of days, and you don't pay exorbitant bank fees. This is not a world of the future; it is a world that an avid but growing number of early adopters live in right now. And these are just a few of the important blockchain technology use cases that are transforming the way we trust and exchange value. Let's start learning!</p>
     
 </div>
@@ -125,24 +126,29 @@
 <img src="static\images\img_blockchain\2.png" object-position: 50% 50%;>
 </div>
 
+
 <div class="row">
+  
+            <div class="col-md-4">
+                <img src="static\images\img_blockchain\udemy.png">
+                <p style="color:black">
+                    Learning that gets you
+                     Skills for your present (and your future). Get started with us
+                </p>
+
+                <p><a class="btn btn-default" href="https://www.udemy.com/course/blockchain-theory-101/">Learn more &raquo;</a></p>
+
+    </div>
+
     <div class="col-md-4">
-        <h2>Getting started</h2>
-        <p style="color:black">
-            Bottle gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
-        </p>
-        <p><a class="btn btn-default" href="http://bottlepy.org/docs/dev/index.html">Learn more &raquo;</a></p>
+        <img src="static\images\img_blockchain\ibm.jpg" width=250 height=135>
+        <p style="color:black">Let's create something new, changing the world for the better</p>
+        <p><a class="btn btn-default" href="https://www.ibm.com/ru-ru/blockchain">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p style="color:black">The Python Package Index is a repository of software for the Python programming language.</p>
-        <p><a class="btn btn-default" href="https://pypi.python.org/pypi">Learn more &raquo;</a></p>
-    </div>
-    <div class="col-md-4">
-        <h2>Microsoft Azure</h2>
-        <p style="color:black">You can easily publish to Microsoft Azure using Visual Studio. Find out how you can host your application using a free trial today.</p>
-        <p><a class="btn btn-default" href="http://azure.microsoft.com">Learn more &raquo;</a></p>
+        <img src="static\images\img_blockchain\devb.png" width=380 height=135> 
+        <p style="color:black">Learn blockchain concepts and have an in-depth knowledge of blockchain technology and its platforms.</p>
+
+        <p ><a  class="btn btn-default" href="https://www.blockchain-council.org/blockchain/how-can-a-newbie-start-learning-about-blockchain/">Learn more &raquo;</a></p>
     </div>
 </div>
