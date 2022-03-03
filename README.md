@@ -6,8 +6,10 @@
 1. [Реализованная функциональность](#implementedfunctionality)
 2. [Особенность проекта](#implementedfunctionality)
 3. [Среда запуска](#startupenvironment)
-4. [Страница Last News](#lastnews)
-5. [Разработчики](#members)
+4. [Страница Введение в Thingworx](#thingworx)
+5. [Страница Blockchain](#blockchein)
+6. [Страница Last News](#lastnews)
+7. [Разработчики](#members)
 
 <a name="implementedfunctionality"></a> 
 # **Особенность проекта**
@@ -24,6 +26,12 @@
 
 <a name="implementedfunctionality"></a> 
 # **Реализованная функциональность**
+
+<a name="thingworx"></a> 
+# **Страница Введение в Thingworx**
+
+<a name="blockchein"></a> 
+# **Страница Blockchain**
 
 <a name="lastnews"></a> 
 # **Страница Last News**
