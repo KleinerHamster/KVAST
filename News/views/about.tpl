@@ -126,6 +126,8 @@
 <img src="static\images\img_blockchain\2.png" object-position: 50% 50%;>
 </div>
 
+<h1 style="font-family: Gill Sans, sans-serif; color:black"> Extra material </h1>
+<hr>
 
 <div class="row">
   
