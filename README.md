@@ -6,10 +6,11 @@
 1. [Реализованная функциональность](#implementedfunctionality)
 2. [Особенность проекта](#implementedfunctionality)
 3. [Среда запуска](#startupenvironment)
-4. [Страница Введение в Thingworx](#thingworx)
-5. [Страница Blockchain](#blockchein)
-6. [Страница Last News](#lastnews)
-7. [Разработчики](#members)
+4. [Страница Home Page](#homepage)
+5. [Страница Введение в Thingworx](#thingworx)
+6. [Страница Blockchain](#blockchein)
+7. [Страница Last News](#lastnews)
+8. [Разработчики](#members)
 
 <a name="implementedfunctionality"></a> 
 # **Особенность проекта**
@@ -26,6 +27,14 @@
 
 <a name="implementedfunctionality"></a> 
 # **Реализованная функциональность**
+
+<a name="homepage"></a> 
+# **Страница Home Page**
+### Предназначение
+Данная страница несет информационный характер для знакомств с проектом, компанией, что из себя представляет. Также страница содержит ссылки на связанные с ней страницы. 
+### Функционал (содержание страницы)
+- Описании компании;
+- Возможность перехода по кнопкам для знакомства с более подробной информацией о курсах, новостях.
 
 <a name="thingworx"></a> 
 # **Страница Введение в Thingworx**
