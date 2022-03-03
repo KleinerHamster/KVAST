@@ -4,7 +4,7 @@
 >FutureSkills – это одна из приоритетных инициатив движения «Молодые профессионалы», направленная на опережающую подготовку кадров.
 # **Оглавление**
 1. [Особенность проекта](#implementedfunctionality)
-2. [Среда запуска](#startupenvironment)
+2. [Назначение проекта](#startupenvironment)
 3. [Страница Введение в Thingworx](#thingworx)
 4. [Страница Blockchain](#blockchein)
 5. [Страница Last News](#lastnews)
@@ -20,7 +20,7 @@
 - [Visual Studio 2019](https://visualstudio.microsoft.com/ru/downloads/) - среда разработки 
 - [Diagrams.net](https://www.diagrams.net) - создание UML-диаграммы
 <a name="startupenvironment"></a>
-# **Среда запуска**
+# **Назначение проекта**
 Данный проект был создан в учебных целях,а именно необходимо было разработать артефакты и настроить Git. Была разработана пробная версия сайта  с помощью шаблона "Пустой веб-проект Bottle"  в среде Visual Studio 2019.
 
 <a name="thingworx"></a> 
