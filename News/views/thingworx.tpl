@@ -53,16 +53,20 @@
         </p>
     </div>
 
-    <div style="margin-top: 30px; font-family:Acumin Pro Extra Light; color:#323b42; font-size:20px; align="justify";">
+    <div style="display:flex; align="justify";">
+        <div style="margin-top: 30px; font-family:Acumin Pro Extra Light; color:#323b42; font-size:20px; align="justify";">
             <p>
                 &mdash; A modern and full-fledged platform <br><br>
                 &mdash; Model-based development provides 10 times faster deployment <br><br>
                 &mdash; Combining people, systems and machines <br><br>
                 &mdash; Deployment - as it is convenient for the customer <br><br>
-                &mdash; Development and growth of the application in the future <br><br>  
-            </p>
+                &mdash; Development and growth of the application in the future <br><br>     
+        </div>
+
+        <div>
+            <img src = "static\images\spec.svg" width = "500" hspace = "0" style="margin-top: 10px;">
+        </div>
     </div>
-    
         
     <div style="margin-top: 30px; font-family:Acumin Pro Extra Light; color:#323b42; font-size:20px; align="justify";">   
         <button style="display: block; width: 100%; border: none; background-color: #5ab63a; padding: 7px 14px; 
