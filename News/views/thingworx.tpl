@@ -37,7 +37,7 @@
     </div>
 
     <div class="line">
-        <p style = "border-top: 1px dashed #000; margin-top: 10px;">
+        <p style = "border-top: 1px dashed #000; margin-top: 30px;">
         </p>
     </div>
 
@@ -81,7 +81,7 @@
 <div style="display:flex; align="justify";">
     <div style="width: 50%;">
 
-        <img src = "static\images\img_thingworx\b1.png" width = "40" hspace = "0" style="margin-top: 10px;">
+        <img src = "static\images\img_thingworx\b1.png" width = "40" hspace = "0" style="margin-top: 20px;">
 
         <p style="font-family:Acumin Pro Extra Light; color:#323b42; font-size:20px; margin-left: 40px; margin-top: 30px;">
             SEARCH-BASED ANALYTICS
@@ -99,7 +99,7 @@
 
     <div style="width: 50%;">
         
-        <img src = "static\images\img_thingworx\b2.png" width = "40" hspace = "0" style="margin-top: 10px;">
+        <img src = "static\images\img_thingworx\b2.png" width = "40" hspace = "0" style="margin-top: 20px;">
         
         <p style="font-family:Acumin Pro Extra Light; color:#323b42; font-size:20px; margin-left: 40px; margin-top: 10px;">
             COLLABORATION
