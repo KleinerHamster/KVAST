@@ -23,3 +23,13 @@ def about():
         message='Page description',
         year=datetime.now().year
     )
+
+@route('/thigworx')
+@view('thingworx')
+def thingworx():
+    """Renders the about page."""
+    return dict(
+        title='About "Last News"',
+        message='Page description',
+        year=datetime.now().year
+    )

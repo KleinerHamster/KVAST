@@ -36,6 +36,14 @@
         </footer>
     </div>
 
+    <div class="container body-content">
+        {{!base}}
+        <hr />
+        <footer>
+            <p>&copy; {{ year }} - thingworx</p>
+        </footer>
+    </div>
+
     <script src="/static/scripts/jquery-1.10.2.js"></script>
     <script src="/static/scripts/bootstrap.js"></script>
     <script src="/static/scripts/respond.js"></script>
