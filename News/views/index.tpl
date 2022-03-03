@@ -4,7 +4,7 @@
     <div style="display:flex">
         <img src = "static\images\new_2.png" width = "600" hspace = "0">
 
-        <p style="font-family:STENCIL; color:#c50224; font-size:30px; margin-left: 350px;">
+        <p style="font-family:STENCIL;color:#c50224; font-size:30px; margin-left: 350px;">
             LAST NEWS
         </p>
     </div>
