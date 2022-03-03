@@ -3,13 +3,12 @@
 
 >FutureSkills – это одна из приоритетных инициатив движения «Молодые профессионалы», направленная на опережающую подготовку кадров.
 # **Оглавление**
-1. [Реализованная функциональность](#implementedfunctionality)
-2. [Особенность проекта](#implementedfunctionality)
-3. [Среда запуска](#startupenvironment)
-4. [Страница Введение в Thingworx](#thingworx)
-5. [Страница Blockchain](#blockchein)
-6. [Страница Last News](#lastnews)
-7. [Разработчики](#members)
+1. [Особенность проекта](#implementedfunctionality)
+2. [Среда запуска](#startupenvironment)
+3. [Страница Введение в Thingworx](#thingworx)
+4. [Страница Blockchain](#blockchein)
+5. [Страница Last News](#lastnews)
+6. [Разработчики](#members)
 
 <a name="implementedfunctionality"></a> 
 # **Особенность проекта**
@@ -23,9 +22,6 @@
 <a name="startupenvironment"></a>
 # **Среда запуска**
 Данный проект был создан в учебных целях,а именно необходимо было разработать артефакты и настроить Git. Была разработана пробная версия сайта  с помощью шаблона "Пустой веб-проект Bottle"  в среде Visual Studio 2019.
-
-<a name="implementedfunctionality"></a> 
-# **Реализованная функциональность**
 
 <a name="thingworx"></a> 
 # **Страница Введение в Thingworx**
